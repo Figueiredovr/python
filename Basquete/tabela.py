@@ -5,7 +5,7 @@
 # e quantidade de cestas de 3 pontos. Ordena e retorna duas tabelas em hmtl
 
 
-arquivo = open("pontos.txt","r")
+arquivo = open("pontos.txt","r") #arquivo de entrada
 saida = open("cestinha.txt","w") #Jogadores que marcaram mais pontos
 saida2 = open("3pontos.txt","w") #Jogadores com mais cestas de 3
 
